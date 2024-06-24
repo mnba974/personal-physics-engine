@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(72,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(73,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(73,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(81,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(81,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(153,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(153,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(154,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(154,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(236,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(237,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(237,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(239,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(239,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(352,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(366,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(420,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\utilities.h(423,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\main.cpp(61,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\graphic-engine\main.cpp(104,47): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 1136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  graphic-engine.vcxproj -> C:\Users\mnba9\OneDrive\Bureau\shenanigans\graphic-engine\x64\Release\graphic-engine.exe
